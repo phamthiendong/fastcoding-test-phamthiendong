@@ -1,0 +1,16 @@
+<svg fill="none" height="60.0000" viewBox="1475.0000 6400.2300 60.0000 60.0000" width="60.0000" xmlns="http://www.w3.org/2000/svg"><defs><filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="117" id="icon-37-filter6_d_2_56" width="114" x="1448" xmlns="http://www.w3.org/2000/svg" y="6400.23">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feColorMatrix in="SourceAlpha" result="hardAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix>
+<feMorphology in="SourceAlpha" operator="erode" radius="8" result="effect1_dropShadow_2_56"></feMorphology>
+<feOffset dy="30"></feOffset>
+<feGaussianBlur stdDeviation="17.5"></feGaussianBlur>
+<feColorMatrix type="matrix" values="0 0 0 0 0.980392 0 0 0 0 0.701961 0 0 0 0 0.247059 0 0 0 0.15 0"></feColorMatrix>
+<feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow_2_56"></feBlend>
+<feBlend in="SourceGraphic" in2="effect1_dropShadow_2_56" mode="normal" result="shape"></feBlend>
+</filter>
+</defs><g filter="url(#icon-37-filter6_d_2_56)" xmlns="http://www.w3.org/2000/svg">
+<circle cx="1505" cy="6430.23" fill="#FF5A3C" r="30"></circle>
+</g>
+<path d="M1501.2 6431.43L1497.5 6431.75C1496.67 6431.75 1496 6431.07 1496 6430.23C1496 6429.4 1496.67 6428.72 1497.5 6428.72L1501.2 6429.04C1501.85 6429.04 1502.38 6429.58 1502.38 6430.23C1502.38 6430.89 1501.85 6431.43 1501.2 6431.43Z" fill="#FDFDFD" opacity="0.4" xmlns="http://www.w3.org/2000/svg"></path>
+<path d="M1513.62 6431.37C1513.57 6431.42 1513.35 6431.67 1513.15 6431.88C1511.96 6433.16 1508.87 6435.26 1507.26 6435.9C1507.01 6436 1506.39 6436.22 1506.06 6436.23C1505.74 6436.23 1505.44 6436.16 1505.15 6436.02C1504.79 6435.81 1504.5 6435.49 1504.34 6435.11C1504.24 6434.85 1504.08 6434.06 1504.08 6434.05C1503.92 6433.19 1503.83 6431.79 1503.83 6430.24C1503.83 6428.77 1503.92 6427.43 1504.05 6426.55C1504.07 6426.54 1504.22 6425.56 1504.4 6425.23C1504.72 6424.61 1505.34 6424.23 1506 6424.23H1506.06C1506.49 6424.25 1507.4 6424.63 1507.4 6424.64C1508.93 6425.28 1511.95 6427.28 1513.16 6428.61C1513.16 6428.61 1513.5 6428.95 1513.65 6429.16C1513.88 6429.47 1514 6429.85 1514 6430.23C1514 6430.65 1513.87 6431.04 1513.62 6431.37Z" fill="#FDFDFD" xmlns="http://www.w3.org/2000/svg"></path>
+</svg>

@@ -1,0 +1,15 @@
+<svg fill="none" height="70.0000" viewBox="1330.6100 3632.4500 70.0000 70.0000" width="70.0000" xmlns="http://www.w3.org/2000/svg"><defs><filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="136" id="icon-17-filter13_d_2_56" width="136" x="1297.61" xmlns="http://www.w3.org/2000/svg" y="3615.45">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feColorMatrix in="SourceAlpha" result="hardAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix>
+<feMorphology in="SourceAlpha" operator="erode" radius="12" result="effect1_dropShadow_2_56"></feMorphology>
+<feOffset dy="16"></feOffset>
+<feGaussianBlur stdDeviation="22.5"></feGaussianBlur>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"></feColorMatrix>
+<feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow_2_56"></feBlend>
+<feBlend in="SourceGraphic" in2="effect1_dropShadow_2_56" mode="normal" result="shape"></feBlend>
+</filter>
+</defs><g filter="url(#icon-17-filter13_d_2_56)" xmlns="http://www.w3.org/2000/svg">
+<rect fill="white" height="70" rx="12" width="70" x="1330.61" y="3632.45"></rect>
+<path d="M1349.88 3650.26L1356.85 3657.23L1353.97 3660.12C1353.57 3660.52 1353.57 3661.17 1353.97 3661.57C1354.37 3661.97 1355.02 3661.97 1355.42 3661.57L1358.3 3658.69L1361.23 3661.62L1358.35 3664.5C1357.95 3664.9 1357.95 3665.55 1358.35 3665.95C1358.75 3666.35 1359.4 3666.35 1359.8 3665.95L1362.69 3663.07L1365.61 3666L1362.73 3668.88C1362.33 3669.28 1362.33 3669.93 1362.73 3670.33C1363.13 3670.73 1363.78 3670.73 1364.18 3670.33L1367.07 3667.45L1370 3670.38L1367.11 3673.26C1366.71 3673.66 1366.71 3674.31 1367.11 3674.71C1367.51 3675.11 1368.16 3675.11 1368.56 3674.71L1371.45 3671.83L1374.38 3674.76L1371.49 3677.64C1371.09 3678.04 1371.09 3678.69 1371.49 3679.09C1371.89 3679.49 1372.54 3679.49 1372.95 3679.09L1375.83 3676.21L1382.8 3683.18C1383.45 3683.83 1382.99 3684.94 1382.08 3684.94H1349.15C1348.58 3684.94 1348.13 3684.48 1348.13 3683.91V3650.99C1348.12 3650.07 1349.23 3649.61 1349.88 3650.26ZM1354.76 3677.27C1354.76 3677.84 1355.22 3678.3 1355.79 3678.3H1365.1C1366.01 3678.3 1366.47 3677.19 1365.83 3676.55L1356.52 3667.24C1355.87 3666.59 1354.76 3667.05 1354.76 3667.96V3677.27Z" fill="#FF5A3C"></path>
+</g>
+</svg>

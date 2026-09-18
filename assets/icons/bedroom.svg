@@ -1,0 +1,16 @@
+<svg fill="none" height="70.0000" viewBox="533.2870 3632.4500 70.0000 70.0000" width="70.0000" xmlns="http://www.w3.org/2000/svg"><defs><filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="136" id="icon-15-filter16_d_2_56" width="136" x="500.287" xmlns="http://www.w3.org/2000/svg" y="3615.45">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feColorMatrix in="SourceAlpha" result="hardAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix>
+<feMorphology in="SourceAlpha" operator="erode" radius="12" result="effect1_dropShadow_2_56"></feMorphology>
+<feOffset dy="16"></feOffset>
+<feGaussianBlur stdDeviation="22.5"></feGaussianBlur>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"></feColorMatrix>
+<feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow_2_56"></feBlend>
+<feBlend in="SourceGraphic" in2="effect1_dropShadow_2_56" mode="normal" result="shape"></feBlend>
+</filter>
+</defs><g filter="url(#icon-15-filter16_d_2_56)" xmlns="http://www.w3.org/2000/svg">
+<rect fill="white" height="70" rx="12" width="70" x="533.287" y="3632.45"></rect>
+<path d="M549.091 3662.4H554.142C553.831 3662.4 553.538 3662.25 553.346 3662.01C553.154 3661.76 553.088 3661.45 553.162 3661.14L553.791 3658.63C554.128 3657.28 555.339 3656.34 556.731 3656.34H563.235C564.906 3656.34 566.266 3657.69 566.266 3659.37V3661.39C566.266 3661.94 565.813 3662.4 565.256 3662.4H571.317C570.76 3662.4 570.307 3661.94 570.307 3661.39V3659.37C570.307 3657.69 571.667 3656.34 573.338 3656.34H579.842C581.234 3656.34 582.444 3657.28 582.782 3658.63L583.41 3661.14C583.487 3661.44 583.418 3661.76 583.227 3662.01C583.035 3662.25 582.742 3662.4 582.43 3662.4H587.482C588.04 3662.4 588.492 3661.94 588.492 3661.39V3655.32C588.492 3652.54 586.225 3650.27 583.441 3650.27H553.132C550.348 3650.27 548.081 3652.54 548.081 3655.32V3661.39C548.081 3661.94 548.533 3662.4 549.091 3662.4Z" fill="#FF5A3C"></path>
+<path d="M587.482 3664.42H549.091C546.307 3664.42 544.04 3666.68 544.04 3669.47V3683.61C544.04 3684.17 544.492 3684.62 545.05 3684.62C545.608 3684.62 546.06 3684.17 546.06 3683.61V3680.58H590.513V3683.61C590.513 3684.17 590.965 3684.62 591.523 3684.62C592.081 3684.62 592.533 3684.17 592.533 3683.61V3669.47C592.533 3666.68 590.266 3664.42 587.482 3664.42ZM590.513 3678.56H546.06V3676.54H590.513L590.513 3678.56Z" fill="#FF5A3C"></path>
+</g>
+</svg>

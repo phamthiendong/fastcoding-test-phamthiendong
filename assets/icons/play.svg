@@ -1,0 +1,14 @@
+<svg fill="none" height="37.1628" viewBox="1623.4986 789.9526 37.1628 37.1628" width="37.1628" xmlns="http://www.w3.org/2000/svg"><defs><filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="61.1628" id="icon-5-filter24_d_2_56" width="61.1631" x="1611.5" xmlns="http://www.w3.org/2000/svg" y="785.952">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feColorMatrix in="SourceAlpha" result="hardAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix>
+<feOffset dy="8"></feOffset>
+<feGaussianBlur stdDeviation="6"></feGaussianBlur>
+<feColorMatrix type="matrix" values="0 0 0 0 0.384314 0 0 0 0 0.443137 0 0 0 0 0.576471 0 0 0 0.1 0"></feColorMatrix>
+<feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow_2_56"></feBlend>
+<feBlend in="SourceGraphic" in2="effect1_dropShadow_2_56" mode="normal" result="shape"></feBlend>
+</filter>
+</defs><g filter="url(#icon-5-filter24_d_2_56)" xmlns="http://www.w3.org/2000/svg">
+<circle cx="1642.08" cy="808.534" fill="#FCFCFD" r="18.5814"></circle>
+</g>
+<path d="M1648.01 807.668C1648.68 808.053 1648.68 809.015 1648.01 809.4L1639.87 814.105C1639.2 814.49 1638.37 814.008 1638.37 813.239L1638.37 803.829C1638.37 803.059 1639.2 802.578 1639.87 802.963L1648.01 807.668Z" fill="#FF5A3C" xmlns="http://www.w3.org/2000/svg"></path>
+</svg>
